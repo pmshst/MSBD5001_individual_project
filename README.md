@@ -1,5 +1,5 @@
 # kaggle 5001 individual
-Programming languages : Python
+Programming languages : Python 3.6 or above
 
 Required packages: sklearn matplotlib pandas numpy
 
